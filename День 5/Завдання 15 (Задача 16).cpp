@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 #include <conio.h>
-using namespace std;c
+using namespace std;
 const int n=10;
 struct Kniga
 {
